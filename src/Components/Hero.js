@@ -18,7 +18,7 @@ export default function Hero() {
                     className="absolute top-0 left-0 w-full h-full object-cover"
                 >
                     <source src="/main-video.mp4" type="video/mp4" />
-                    Your browser doesn't support the video tag.
+                    Your browser doesn&apos;t support the video tag.
                 </video>
 
                 {/* Content Over Video */}
